@@ -1,0 +1,2 @@
+# TimeClock
+A time clock, it’s a time recorder used to assist in tracking the hours worked by an employee of a company. This plugin is an example of the possibilities of the TM4HR possibility to import data from outside the main program, so it is a separate and independent program that save data in localdb or MDB or XML (as you prefer). Admin can create/edit/delete employees, create file for export (xml or cvs or text), create/edit/delete “time entries”, print a report of “time entries”, and edit Settings.
